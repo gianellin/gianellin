@@ -67,4 +67,4 @@ Now I am combining my diverse skillsets and experience and I am excited to bring
 
 <!-- <br> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianellin&layout=compact&card_width=450&theme=aura&border=none" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianellin&layout=compact&card_width=400&theme=aura" />
