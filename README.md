@@ -64,6 +64,6 @@ Now I am combining my diverse skillsets and experience and I am excited to bring
 	1. Send me a [message](https://gianellin.github.io/portfolio_website/#contact)
 
 
-	1. <a href="https://www.linkedin.com/in/gianellacch/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="5%" ></a> (I will asnswer to this one the fastest!)
+	1. <a href="https://www.linkedin.com/in/gianellacch/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="5%" ></a> (I will answer to this one the fastest!)
 
 - ⚡ Fun fact: I like to illustrate and paint!
