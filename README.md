@@ -3,7 +3,7 @@
 
 ### Software Engineer <-- Industrial Engineer*
 
-I live in Miami, FL, and I have a B.S. in Industrial Engineering.
+- 🌍 I live in Miami, FL, and I have a B.S. in Industrial Engineering.
 
 
 I have several years of experience working with e-commerce and digital marketing projects, which is where I found my passion for software engineering, while learning to apply programming in solving problems for data, user interfaces and email development. I quickly found that I loved the programming and creative components that come with solving problems related to these aspects.
