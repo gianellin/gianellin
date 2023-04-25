@@ -46,9 +46,7 @@ Now I am combining my diverse skillsets and experience and I am excited to bring
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="7%" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="canva" alt="canva" width="7%" />
-                
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="photoshop" alt="photoshop" width="7%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="canva" alt="canva" width="7%" />          
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="7%"/>
 
