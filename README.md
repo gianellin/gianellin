@@ -10,7 +10,7 @@ I have 5 years of experience working with e-commerce projects and digital market
 
 I am also a big fan of design, tech and travel. In my free time, I enjoy creating content for my social media handles, which revolve around my aesthetics, my daily life and my skills.
 
-Now I am combining my diverse skillsets and experience and I am excited to bringing together ambition, curiosity and a collaborative attitude to build scalable applications for everyone!
+Now I am combining my diverse skillsets and experience and I am excited to bring together ambition, curiosity and a collaborative attitude to build scalable applications for everyone!
 <br><br>
 
 - 🛠️ Languages and tools:
