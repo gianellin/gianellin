@@ -63,8 +63,8 @@ Now I am combining my diverse skillsets and experience and I am excited to bring
 
 - ⚡ Fun fact: I like to illustrate and paint!
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gianellin&theme=buefy-dark&hide_border=true&mode=weekly" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gianellin&theme=buefy-dark&hide_border=true&mode=weekly" />
 
 <!-- <br> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianellin&layout=compact&card_width=400&theme=aura" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianellin&layout=compact&card_width=400&theme=aura" /> -->
