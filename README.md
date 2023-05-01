@@ -1,4 +1,4 @@
-## Hi there! My name is Gianella! 
+## Hi there! My name is Gianella.
 (Everybody calls me "Gia")
 
 #### Software Engineer <-- Industrial Engineer*
