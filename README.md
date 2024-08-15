@@ -6,11 +6,11 @@
 - 🌍 I live in Miami, FL, and I have a B.S. in Industrial Engineering.
 
 
-I have several years of experience working with e-commerce and digital marketing projects, which is how I found my passion for software engineering, while learning to apply programming in solving problems for user experiences and email development. I quickly found that I loved the programming and creative components that come with solving problems related to these aspects.
+I have several years of experience working with e-commerce and digital marketing projects, which is how I found my passion for front end development, while learning to apply programming in solving problems for user experiences and email development. I quickly found that I loved the programming and creative components that come with solving problems related to these aspects.
 
-I am also a big fan of design, tech and travel. In my free time, I enjoy creating content for my social media handles, which revolve around my aesthetics, my daily life and my skills.
+I am also a big fan of design and travel. In my free time, I enjoy creating content for my social media handles, which revolve around my aesthetics, my daily life and my skills.
 
-Now I am combining my diverse skillsets and experience and I am excited to bring together curiosity and a collaborative attitude to build scalable applications for everyone!
+Now I am combining my diverse skillsets and I am excited to bring together my curiosity and collaborative attitude to build user friendly solutions for everyone!
 <br><br>
 
 - 🛠️ Languages and tools:
